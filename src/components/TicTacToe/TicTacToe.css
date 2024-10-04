@@ -1,0 +1,18 @@
+.boxes{
+    height: 100px;
+    width: 100px;
+    display: flex ;
+    border:1px solid #2B2B34;
+    cursor: pointer;
+    margin-left: 1px;
+    border-radius: 4px;
+    background-color: #008080;
+    
+}
+
+.board{
+  
+
+    display: flex;
+    margin-left: 55px;
+}
